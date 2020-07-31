@@ -99,7 +99,7 @@ Into `<FormattedMessage />`, we'll pass in two props.
 For our second prop: if you look at the `BookDetail` user review header, you'll see that the name of the reviewer is wrapped in a `<strong>` tag. We can actually pass markdown into our `values` prop, and react-intl will render it correctly. So for our placeholders to be rendered as we want, our second prop should look like `values={{name: <strong>{review.name}</strong>, rating: review.rating}}/>`.
 
 ### BookDetail.js
-```js
+```jsx
 <p>
     <FormattedMessage id="detail.userRating" values={{name: <strong>{review.name}</strong>, rating: review.rating}}/>
     <br />

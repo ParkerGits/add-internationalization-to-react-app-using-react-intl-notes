@@ -83,7 +83,7 @@ Create a folder in **src** called **components**, and create three files:
 
 Within each file, add the corresponding code given below:
 ### BookDetail.js
-```js
+```jsx
 import React from 'react';
 import {meanBy, round, sortBy} from 'lodash';
 
@@ -143,7 +143,7 @@ export default BookDetail;
 ```
 
 ### FeaturedBook.js
-```js
+```jsx
 import React from 'react';
 import {Link} from 'react-router-dom';
 
@@ -161,7 +161,7 @@ export default FeaturedBook;
 ```
 
 ### Home.js
-```js
+```jsx
 import React from "react";
 import FeaturedBook from "./FeaturedBook";
 
