@@ -1,10 +1,25 @@
-<h1><p align="center"><a href="https://egghead.io/courses/get-started-with-angular">Get Started with Angular</a></p></h1>
+<h1><p align="center"><a href="https://egghead.io/courses/add-internationalization-i18n-to-a-react-app-using-react-intl">Add Internationalization (i18n) to a React app using React Intl</a></p></h1>
 
-<h2><p align="center"><a href="https://egghead.io/instructors/john-lindquist"> 👨‍🏫 Instructor - John Lindquist</a></p></h2>
+<h2><p align="center"><a href="https://egghead.io/instructors/damon-bauer"> 👨‍🏫 Instructor - Damon Bauer</a></p></h2>
 
-## Table of Contents
+<p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/124/full/EGH_React_i18n.png" width="300"/></p>
 
-- [00-Intro and Welcome](00-intro-and-welcome.md)
+## 🌟 About 
+These notes go along with the *[Add Internationalization (i18n) to a React app using React Intl](https://egghead.io/courses/add-internationalization-i18n-to-a-react-app-using-react-intl)* course from [Damon Bauer](https://egghead.io/instructors/damon-bauer) on [egghead.io](http://egghead.io/).
+
+In this course, you can expect to
+- Develop a React project with Create-React-App 🔨
+- Install and use react-intl in your project 🌎
+- Learn how react-intl simplifies internationalization with data-formatting tools 📝
+- Centralize the content across your application into language specific files 💬
+- Write tests for components that include react-intl components with Enzyme and Jest 🧪
+
+## 👩‍💻 Code
+Updated code for each lesson of this course can be found [here]().
+
+Lesson code resides on branch with corresponding name.
+
+## 📖 Table of Contents
 
 - [01-Install and Configure the Entry Point of react-intl](01-install-and-configure-the-entry-point-of-react-intl.md)
 
