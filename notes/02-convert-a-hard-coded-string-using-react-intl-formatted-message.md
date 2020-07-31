@@ -848,7 +848,7 @@ yarn start
 ```
 And navigate to `localhost:3000` to see our project. If there are no errors, we should see the following:
 
-![Homepage](./images\02-convert-a-hard-coded-string-using-react-intl-formatted-message-homepage.png)
+![Homepage](./images/02-convert-a-hard-coded-string-using-react-intl-formatted-message-homepage.png)
 
 Click on one of the books to view information about that book.
 
