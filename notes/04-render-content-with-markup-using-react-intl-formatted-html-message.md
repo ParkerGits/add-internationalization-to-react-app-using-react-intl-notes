@@ -64,7 +64,7 @@ Now, to render the markdown in our message correctly, we can use a `FormattedMes
     ))}
 </div>
 // New Message
-<FormattedMessage id="detail.window" values={{numMerchants: book.reviews.length, small: chunks => <small>{chunks}</small>, em: chunks => <em>{chunks}</em>}} />
+<FormattedMessage id="detail.window" values={{numMerchants: book.merchants.length, small: chunks => <small>{chunks}</small>, em: chunks => <em>{chunks}</em>}} />
 
 ...
 ```

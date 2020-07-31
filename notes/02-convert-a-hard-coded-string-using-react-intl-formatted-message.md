@@ -360,7 +360,7 @@ Next, edit **src/App.css** to be as follows:
 
 </details>
 
-Finally, created a file within **src** called **books.json**, and paste the following within:
+Finally, create a file within **src** called **books.json**, and paste the following within:
 
 <details>
 <summary> books.json </summary>
