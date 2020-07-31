@@ -37,9 +37,9 @@ Lesson code resides on branch with corresponding name.
 
 - [08-Render Content Based on a Number using react-intl FormattedMessage](08-render-content-based-on-a-number-using-react-intl-formatted-message.md)
 
-- [10-Write tests for react-intl output using enzyme and Jest](10-write-tests-for-react-intl-output-using-enzyme-and-jest.md)
-
 - [09-Use a react-intl Higher Order Component to format messages and get current locale](09-use-a-react-intl-higher-order-component-to-format-messages-and-get-current-locale.md)
+
+- [10-Write tests for react-intl output using enzyme and Jest](10-write-tests-for-react-intl-output-using-enzyme-and-jest.md)
 
 - [11-Use Webpack to Conditionally Include an Intl Polyfill for Older Browsers](11-use-webpack-to-conditionally-include-an-intl-polyfill-for-older-browsers.md)
 
