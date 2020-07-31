@@ -5,7 +5,7 @@
 ## Making our Messages More Friendly ⚡
 Currently, no matter how many reviews a book has, our app always renders the number of reviews, then the word reviews.
 
-![Reviews Before](images/08-render-content-based-on-a-number-using-react-intl-formatted-message-reviews-beforee.png)
+![Reviews Before](images/08-render-content-based-on-a-number-using-react-intl-formatted-message-reviews-before.png)
 
 We can make this more friendly by first changing our `avgRating` variable in **src/components/BookDetail.js**. Let's have the variable evaluate to what it is now when `book.reviews.length` is true (when there are book reviews), and have it evaluate to 0 when `book.reviews.length` is false (there are no book reviews).
 
