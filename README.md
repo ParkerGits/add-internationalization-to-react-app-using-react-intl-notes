@@ -15,7 +15,7 @@ In this course, you can expect to
 - Write tests for components that include react-intl components with Enzyme and Jest 🧪
 
 ## 👩‍💻 Code
-Updated code for each lesson of this course can be found [here]().
+Updated code for each lesson of this course can be found [here](https://github.com/ParkerGits/add-internationalization-to-react-app-using-react-intl-course-code).
 
 Lesson code resides on branch with corresponding name.
 
