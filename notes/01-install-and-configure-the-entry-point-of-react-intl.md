@@ -86,7 +86,7 @@ ReactDOM.render(
 
 Our `locale` variable first checks for `navigator.languages` and evaluates to `navigator.languages[0]` if that exists.
 
-"The first value in the aray is typically the preferred language of the user"
+"The first value in the array is typically the preferred language of the user"
 
 If `navigator.languages` isn't supported by the browser, `locale` evaluates to `navigator.language`. If that isn't supported by the browser, `locale` evaluates to `navigator.userlanguage`, and if that isn't supported by the browser, `locale` will finally evaluate to `en-US`.
 
