@@ -11,7 +11,7 @@ In this course, you can expect to
 - Develop a React project with Create-React-App 🔨
 - Install and use react-intl in your project 🌎
 - Learn how react-intl simplifies internationalization with data-formatting tools 📝
-- Centralize the content across your application into language specific files 💬
+- Centralize the content across your application into language specific message objects 💬
 - Write tests for components that include react-intl components with Enzyme and Jest 🧪
 
 ## 👩‍💻 Code

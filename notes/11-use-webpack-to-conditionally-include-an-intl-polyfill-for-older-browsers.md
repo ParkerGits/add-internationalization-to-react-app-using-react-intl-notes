@@ -3,7 +3,7 @@
 **[📹 Video](https://egghead.io/lessons/react-use-webpack-to-conditionally-include-an-intl-polyfill-for-older-browsers)**
 
 ## Deprecation ⚠
-The migration to using native Intl APIs in react-intl v3 may have rendered this lesson obsolete. In the [resources](#resources-📖) for these lesson notes, I've included a link to the react-intl v2 -> v3 upgrade guide and specifically the *Migrate to using native Intl APIs* section.
+The migration to using native Intl APIs in react-intl v3 may have rendered this lesson obsolete. In the [resources](#resources-) for these lesson notes, I've included a link to the react-intl v2 -> v3 upgrade guide and specifically the *Migrate to using native Intl APIs* section.
 
 Furthermore, `require.ensure()` is disabled as of Create React App 2.0. Conditionally loading polyfills is now going to require some implementation [like this](https://2ality.com/2017/01/import-operator.html#conditional-loading-of-modules).
 
